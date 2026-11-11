@@ -1,0 +1,17 @@
+﻿[project]
+name = "optional-image-loader-auto-resize"
+version = "1.0.0"
+description = "Optional ComfyUI image loader with automatic megapixel-based resizing, aspect ratio preservation, and no placeholder images."
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Network-Guy8/ComfyUI-Optional-Image-Loader"
+Documentation = "https://github.com/Network-Guy8/ComfyUI-Optional-Image-Loader#readme"
+"Bug Tracker" = "https://github.com/Network-Guy8/ComfyUI-Optional-Image-Loader/issues"
+
+[tool.comfy]
+PublisherId = "network-guy8"
+DisplayName = "Optional Image Loader (Auto Resize)"
+Icon = ""
